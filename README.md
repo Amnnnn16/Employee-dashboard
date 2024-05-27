@@ -37,8 +37,9 @@ Make sure you have the following installed:
 
 3. Start the development server:
  ```bash
- mpm start
+ npm start
 
+ 
 Project Structure
 plaintext
 Copy code
