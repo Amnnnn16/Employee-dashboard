@@ -41,37 +41,23 @@ npm install
  npm start
  ```
 
-
-Project Structure
-plaintext
-Copy code
-.
-├── public
-│   ├── index.html
-│   └── ...
-├── src
-│   ├── components
-│   │   ├── Dashboard.js
-│   │   ├── EmployeeCard.js
-│   │   ├── EmployeeTable.js
-│   │   ├── EmployeeTable.css
-│   │   └── EmployeeCard.css
-│   ├── App.js
-│   ├── App.css
-│   ├── index.js
-│   └── ...
-└── package.json
-Components
+### Components
 Dashboard.js: The main component that structures the dashboard layout.
+
 EmployeeTable.js: Displays the table of employees with their details.
+
 EmployeeCard.js: Displays the employee of the month card.
-Custom CSS
+
+### Custom CSS
+
 App.css: General styles for the app.
 EmployeeTable.css: Specific styles for the Employee Table component.
 EmployeeCard.css: Specific styles for the Employee Card component.
+
 Example Data
 The employee data is currently hardcoded in EmployeeTable.js for demonstration purposes. You can update it or replace it with dynamic data fetching as needed.
 
-Dependencies
+### Dependencies
+
 React
 Material-UI
