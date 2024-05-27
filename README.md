@@ -33,13 +33,15 @@ Make sure you have the following installed:
 2. Install the dependencies:
 
 ```bash
-    npm install
+npm install
+```
 
 3. Start the development server:
  ```bash
  npm start
+ ```
 
- 
+
 Project Structure
 plaintext
 Copy code
