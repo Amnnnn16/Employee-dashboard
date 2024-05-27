@@ -1,0 +1,14 @@
+
+@media (max-width: 600px) {
+    .MuiTableCell-root {
+      padding: 8px;
+    }
+    .MuiTableCell-root:nth-child(2) {
+      display: flex;
+      flex-direction: column;
+    }
+    .MuiTableCell-root:nth-child(2) .MuiBox-root {
+      margin-left: 0 !important;
+    }
+  }
+  
